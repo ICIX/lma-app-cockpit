@@ -1,5 +1,8 @@
 # Salesforce LMA App Cockpit 
-
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
 ## TL;DR - Show me a demo!
 
 [![](http://img.youtube.com/vi/GTy0Lr19z34/0.jpg)](http://www.youtube.com/watch?v=GTy0Lr19z34 "")
