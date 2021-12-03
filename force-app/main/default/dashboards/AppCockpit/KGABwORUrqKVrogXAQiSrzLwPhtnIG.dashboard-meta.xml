@@ -121,7 +121,7 @@
     </dashboardGridLayout>
     <dashboardType>LoggedInUser</dashboardType>
     <isGridLayout>true</isGridLayout>
-    <runningUser>test-tqwyndvuyaai@example.com</runningUser>
+    <runningUser>jason.ross@rk.crm.icixdev</runningUser>
     <textColor>#000000</textColor>
     <title>App Cockpit Dashboard</title>
     <titleColor>#000000</titleColor>
